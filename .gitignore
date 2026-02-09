@@ -1,0 +1,18 @@
+# Generated binaries
+game_of_life
+test_game_of_life
+benchmark_bin
+benchmark_engines_bin
+
+# Build artifacts
+*.o
+*.dSYM/
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*~
+
+# OS files
+.DS_Store
